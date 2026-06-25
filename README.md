@@ -1,4 +1,4 @@
-# Cassette Player Py
+# Cassette Player
 
 Um toca-fitas retrô desenvolvido em Python com interface gráfica inspirada nos aparelhos clássicos dos anos 80 e 90.
 
